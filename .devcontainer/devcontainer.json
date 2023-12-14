@@ -43,4 +43,9 @@
         // "git": "latest",
         // "github-cli": "latest"
     }
+    // ,
+    // "remoteEnv": {
+    //   // Use a GitHub Codespaces secret:
+    //   "test1": "${localEnv:TEST123}"
+    // }
 }
